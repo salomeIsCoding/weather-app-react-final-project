@@ -24,6 +24,14 @@ function App() {
             >
               Github{" "}
             </a>
+            and hosted on{" "}
+            <a
+              href="https://weather-react-final-shecodes.netlify.app/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Netlify{" "}
+            </a>
           </p>
         </footer>
       </div>
